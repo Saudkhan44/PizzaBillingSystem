@@ -1,5 +1,3 @@
-package PizzaBillingSystem;
-
 import java.util.Scanner;
 
 public class PizzaBillingSystem {
